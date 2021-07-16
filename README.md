@@ -8,7 +8,7 @@ Satyendranath Bose Summer Internship, 2021
 
 
 ---------------
-##Wheeled Bot
+#Wheeled Bot
 ---------------
 URDF File
 
@@ -30,6 +30,13 @@ Right Wheel
  Left Wheel 
 We are doing basically the same thing for the left and the right wheel just only difference is the position of the joint. 
 ...............................................................................................................................................................................
+
+
+
+
+
+
+
 RVIZ.Launch
 We are defining here the robot description parameter(ROS Parameter). And we are using the cat command to read the file. 
   And here we are publishing the joint state of the joints of the robot and the robot state and the robot state publisher. 
